@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**1120sakimura/1120sakimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**1120sakimura/1120sakimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. .
 
 Here are some ideas to get you started:
 
