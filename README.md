@@ -1,4 +1,4 @@
-## Hi there 👋
+## A kinky neuroatypical Android haver doing stuff, do I have to explain more? ![img/speed.jpg]
 
 <!--
 **1120sakimura/1120sakimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
