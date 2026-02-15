@@ -1,5 +1,5 @@
-# A kinky neuroatypical Android haver doing stuff,
-## do I have to explain more? <img src="speed.jpg" width="20">
+# *A kinky neuroatypical Android haver doing stuff,*
+## *do I have to explain more?* <img src="speed.jpg" width="20">
 
 
 <!--
