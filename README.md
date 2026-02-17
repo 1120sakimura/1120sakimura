@@ -1,4 +1,4 @@
-# *A kinky neuroatypical Android haver doing stuff,*
+# *A kinky neuroatypical Android haver doing stuff,* 
 ## *do I have to <br> explain me more?* <img src="speed.jpg" width="20">
 
 
