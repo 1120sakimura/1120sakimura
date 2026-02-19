@@ -1,5 +1,1 @@
-* linguist-vendored=false
-* linguist-generated=false
-* linguist-documentation=false
-* linguist-detectable=true
-*.git linguist-detectable=false
+* linguist-detectable=false
