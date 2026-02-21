@@ -1,10 +1,3 @@
-<h2 align="center"><b>[ CALL ME <ins><code>TORI</code></ins> ! ]</b></h2>
-<div align="center">
-<img src="tord.png" width="60%">
-</div>
-<p>- 💘 Brazilian ageless Tord kith & (doubles-friendly) yume! ^^<br>- 🧠
-AuDHD, and RSD/ODD struggles<br>- 📱 Android lover, tinkerer & fiddle-potterer of Shizuku-ADB! <3<br>- 🚩 Augmented Intelligence is art / neutral-ACAB anarcho-moralist!</p>
-
 <h2 align="center"><b>[ CONTACT ]</b></h2>
 <p align="center"> <b>sakimura.meww@keemail.me</b><br><code>(you'll need Tutanota!)</code></p>
 
