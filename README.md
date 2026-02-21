@@ -1,3 +1,6 @@
+# *A kinky neuroatypical Android haver doing stuff,*
+## *do I have to <br> explain me more?* <img src="speed.jpg" width="20">
+
 <h2 align="center"><b>[ CONTACT ]</b></h2>
 <p align="center"> <b>sakimura.meww@keemail.me</b><br><code>(you'll need Tutanota!)</code></p>
 
