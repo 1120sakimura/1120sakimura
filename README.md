@@ -1,9 +1,6 @@
 # *A neuroatypical Android haver doing stuff,*
 ## *do I have to <br> explain me more?* <img src="speed.jpg" width="20">
 
-<h2 align="center"><b>[ CONTACT ]</b></h2>
-<p align="center"> <b>sakimura.meww@keemail.me</b><br><code>(you'll need Tutanota!)</code></p>
-
 <!--
 **1120sakimura/1120sakimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
