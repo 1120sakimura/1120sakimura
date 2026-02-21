@@ -1,6 +1,9 @@
+## Extended bio:
+
+*Call me Tori / Android lover <3 / AuDHD & opposition / Augmented Intelligence is art! / neu-ACAB anarcho-moralist / tinkerer & newbie data miner of ADB!*
+
 # *A kinky neuroatypical Android haver doing stuff,*
 ## *do I have to <br> explain me more?* <img src="speed.jpg" width="20">
-
 
 <!--
 **1120sakimura/1120sakimura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
